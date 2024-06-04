@@ -1,0 +1,2 @@
+add_subdirectory(example_string)
+add_subdirectory(example_vector)

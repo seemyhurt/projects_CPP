@@ -1,0 +1,2 @@
+add_subdirectory(case_sens_map)
+add_subdirectory(dictionary)

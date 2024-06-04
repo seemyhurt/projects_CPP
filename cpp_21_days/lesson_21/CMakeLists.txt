@@ -1,0 +1,4 @@
+add_subdirectory(compare_string)
+add_subdirectory(divider)
+add_subdirectory(multiply_vector)
+add_subdirectory(unary_function)

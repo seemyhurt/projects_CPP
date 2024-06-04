@@ -1,0 +1,4 @@
+add_subdirectory(array_index)
+add_subdirectory(dynamic_memory)
+add_subdirectory(indicator)
+add_subdirectory(reference)

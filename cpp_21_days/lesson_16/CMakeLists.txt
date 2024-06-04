@@ -1,0 +1,7 @@
+add_subdirectory(delete_symbol)
+add_subdirectory(only_vowel)
+add_subdirectory(palindrome)
+add_subdirectory(space)
+add_subdirectory(string_iterator)
+add_subdirectory(substring)
+add_subdirectory(upper_second)

@@ -1,0 +1,4 @@
+add_subdirectory(agregat)
+add_subdirectory(circle)
+add_subdirectory(constructor)
+add_subdirectory(private_destructor)

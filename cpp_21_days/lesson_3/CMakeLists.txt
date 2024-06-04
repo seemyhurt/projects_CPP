@@ -1,0 +1,3 @@
+add_subdirectory(enumeration)
+add_subdirectory(var_size)
+add_subdirectory(radius)
